@@ -1,4 +1,4 @@
-## Hey 👋 I'm hydra, aka hydralica
+## I'm hydra, aka hydralica
 ### I am a mostly self-taught hobbyist programmer. I mainly code in python and autohotkey, but as of late i've been expanding my horizons and learning a few new languages! (Golang & C#)
 
 <img src="https://komarev.com/ghpvc/?username=hydralica" alt="hydralica" />
