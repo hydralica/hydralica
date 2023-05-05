@@ -13,7 +13,7 @@
  -->
  
  ## Hey 👋, I'm [hydra](https://github.com/hydra/)
-### I am a mostly self-taught hobbyist programmer. I mainly code in python and autohotkey, but as of late i've been expanding my horizons and learning a few new languages! (JS, C++ / C#)
+### I am a mostly self-taught hobbyist programmer. I mainly code in python, but as of late i've been expanding my horizons and learning a few new languages! (JS, C++ / C#)
 
 <img src="https://komarev.com/ghpvc/?username=hydralica" alt="hydralica" />
 
