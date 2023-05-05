@@ -19,13 +19,13 @@
 
 <img src="https://img.shields.io/github/followers/hydralica.svg?label=GitHub&style=social" alt="GitHub">
 
-<h2>Github statistics</h2>
+<h2>Github Stats</h2>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=hydralica&show_icons=true&theme=monokai" alt="hydralica :: Profile Stats" /></p>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hydralica&langs_count=10&theme=monokai&layout=compact" alt="hydralica :: Top Langs" /></p>
 
-### Languages :
+### <h2>Languages</h2>
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
