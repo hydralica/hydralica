@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> ## I'm [hydra]([https://www.linkedin.com/in/preetham-b-95a962153](https://github.com/hydralica)).
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> ##I'm [hydra]([https://www.linkedin.com/in/preetham-b-95a962153](https://github.com/hydralica)).
 ### I am a mostly self-taught hobbyist programmer. I mainly code in python and autohotkey, but as of late i've been expanding my horizons and learning a few new languages! (JS, C++ / C#)
 
 <img src="https://komarev.com/ghpvc/?username=hydralica" alt="hydralica" />
