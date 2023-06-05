@@ -21,9 +21,9 @@
 
 <h2>Github Stats</h2>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=hydralica&show_icons=true&theme=monokai" alt="hydralica :: Profile Stats" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=hydralica&show_icons=true&theme=react" alt="hydralica :: Profile Stats" /></p>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hydralica&langs_count=10&theme=monokai&layout=compact" alt="hydralica :: Top Langs" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hydralica&langs_count=10&theme=react&layout=compact" alt="hydralica :: Top Langs" /></p>
 
 ### <h2>Languages</h2>
 
